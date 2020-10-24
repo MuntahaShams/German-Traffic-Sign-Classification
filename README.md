@@ -28,3 +28,10 @@ I'll explain each step in details below.
 -  Python 3.6.2
 -  TensorFlow 0.12.1 (GPU support)
 
+Download the dataset from [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-signs-data/traffic-signs-data.zip). This is a pickled dataset in which we've already resized the images to 32x32.
+
+We already have three .p files of 32x32 resized images:
+
+train.p: The training set.
+test.p: The testing set.
+valid.p: The validation set.
