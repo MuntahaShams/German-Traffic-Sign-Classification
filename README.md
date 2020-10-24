@@ -21,8 +21,6 @@ This dataset has more than 50,000 images of 43 classes.**
 - **Testing the Model Using the Test Set.**
 - **Testing the Model on New Images.**
 
-I'll explain each step in details below.
-
 #### Environement:
 -  Anaconda 5.0.1
 -  Python 3.6.2
