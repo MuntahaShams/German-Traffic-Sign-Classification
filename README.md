@@ -9,27 +9,19 @@ This dataset has more than 50,000 images of 43 classes.**
 ## Pipeline architecture:
 - **Load The Data.**
 - **Dataset Summary & Exploration**
+    - turning data into tensors
+    - Getting images and their labels
+    - turning images into tensors
 - **Data Preprocessing**.
-    - Shuffling.
-    - Grayscaling.
-    - Local Histogram Equalization.
-    - Normalization.
+    - Normalization
+    - resize
 - **Design a Model Architecture.**
-    - LeNet-5.
-    - VGGNet.
+   -CNN Model
 - **Model Training and Evaluation.**
 - **Testing the Model Using the Test Set.**
-- **Testing the Model on New Images.**
 
 #### Environement:
--  Anaconda 5.0.1
--  Python 3.6.2
--  TensorFlow 0.12.1 (GPU support)
+-  Python 3.7
+-  TensorFlow 2.4.1 (GPU support)
 
-Download the dataset from [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-signs-data/traffic-signs-data.zip). This is a pickled dataset in which we've already resized the images to 32x32.
-
-We already have three .p files of 32x32 resized images:
-
-train.p: The training set.
-test.p: The testing set.
-valid.p: The validation set.
+Download the dataset from [here](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign). 
