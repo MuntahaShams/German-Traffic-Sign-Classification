@@ -1,4 +1,4 @@
-# German Traffic Sign Classification Using TensorFlow
+# German Traffic Sign Classification 
 **In this project, I used Python and TensorFlow to classify traffic signs.**
 
 **Dataset used: German Traffic Sign Dataset.
