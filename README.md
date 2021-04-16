@@ -1,8 +1,9 @@
 # German Traffic Sign Classification Using TensorFlow
 **In this project, I used Python and TensorFlow to classify traffic signs.**
 
-**Dataset used: [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
+**Dataset used: German Traffic Sign Dataset.
 This dataset has more than 50,000 images of 43 classes.**
+Download the dataset from [here](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
 
 **I was able to reach a +99% validation accuracy, and a 97.6% testing accuracy.**
 
@@ -24,4 +25,4 @@ This dataset has more than 50,000 images of 43 classes.**
 -  Python 3.7
 -  TensorFlow 2.4.1 (GPU support)
 
-Download the dataset from [here](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign). 
+ 
